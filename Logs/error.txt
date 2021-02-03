@@ -1,0 +1,10 @@
+1/1/2021  21:58:0 :: done
+1/1/2021  23:8:52 :: error in get District Data,ReferenceError: getStateData is not defined
+2/1/2021  20:49:22 :: mongo error Error: queryTxt ESERVFAIL cluster0-szqhn.mongodb.net
+2/1/2021  22:18:34 :: mongo error Error: querySrv ESERVFAIL _mongodb._tcp.cluster0-szqhn.mongodb.net
+2/1/2021  23:54:20 :: mongo error Error: queryTxt ESERVFAIL cluster0-szqhn.mongodb.net
+3/1/2021  16:20:38 :: mongo error Error: querySrv ESERVFAIL _mongodb._tcp.cluster0-szqhn.mongodb.net
+3/1/2021  16:20:38 :: mongo error Error: querySrv ESERVFAIL _mongodb._tcp.cluster0-szqhn.mongodb.net
+3/1/2021  16:20:50 :: mongo error Error: queryTxt ESERVFAIL cluster0-szqhn.mongodb.net
+3/1/2021  16:20:50 :: mongo error Error: queryTxt ESERVFAIL cluster0-szqhn.mongodb.net
+3/1/2021  17:48:46 :: mongo error Error: queryTxt ESERVFAIL cluster0-szqhn.mongodb.net

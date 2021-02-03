@@ -1,0 +1,29 @@
+{
+  "name": "quolity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --recursive --exit --timeout 10000"
+  },
+  "author": "joshua",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.834.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "mocha": "^8.2.1",
+    "mongodb": "^3.6.3",
+    "node-cron": "^2.0.3",
+    "save": "^2.4.0",
+    "supertest": "^6.1.3"
+  }
+}
